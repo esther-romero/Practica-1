@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ElSenderoQuellegaAlZenith
+comment1.params=
+comment1.target=ElSenderoQuellegaAlZenith()
+comment2.params=alcanceOpti\ dura
+comment2.target=ElSenderoQuellegaAlZenith(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ observar()
+comment4.params=otra
+comment4.target=ElSenderoQuellegaAlZenith\ combinarModulos(ElSenderoQuellegaAlZenith)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AllendeElAlmayLosMares
+comment1.params=
+comment1.target=AllendeElAlmayLosMares()
+comment2.params=x\ y
+comment2.target=java.lang.String\ jugar(int,\ int)
+comment3.params=x1
+comment3.target=java.lang.String\ buscarX(int)
+comment4.params=y1
+comment4.target=java.lang.String\ buscarY(int)
+comment5.params=
+comment5.target=void\ reiniciarJuego()
+comment6.params=
+comment6.target=int\ numeroIntentos()
+numComments=7

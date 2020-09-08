@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ElReflejodeUnaL\u00E1grima
+comment1.params=
+comment1.target=ElReflejodeUnaL\u00E1grima()
+comment2.params=encender
+comment2.target=void\ encenderMaquina(boolean)
+comment3.params=apagar
+comment3.target=void\ apagarMaquina(boolean)
+comment4.params=savia
+comment4.target=java.lang.String\ agregarSavia(int)
+comment5.params=
+comment5.target=java.lang.String\ crearComponente()
+comment6.params=retSavia
+comment6.target=void\ retirarSavia(int)
+comment7.params=retReflejo
+comment7.target=void\ retirarReflejo(int)
+numComments=8
