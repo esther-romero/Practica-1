@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pariente
+comment1.params=
+comment1.target=Pariente()
+comment2.params=num1\ num2
+comment2.target=java.lang.String\ verificadorParientes(int,\ int)
+numComments=3

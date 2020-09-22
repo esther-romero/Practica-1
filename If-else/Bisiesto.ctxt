@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bisiesto
+comment1.params=
+comment1.target=Bisiesto()
+comment2.params=anio
+comment2.target=boolean\ anioBisiesto(int)
+numComments=3

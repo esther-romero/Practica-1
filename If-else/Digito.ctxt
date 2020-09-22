@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Digito
+comment1.params=
+comment1.target=Digito()
+comment2.params=numero
+comment2.target=int\ verificar(int)
+comment3.params=nume
+comment3.target=int\ contar(int)
+numComments=4
