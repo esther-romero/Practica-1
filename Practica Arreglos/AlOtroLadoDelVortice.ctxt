@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AlOtroLadoDelVortice
+comment1.params=arr
+comment1.target=java.lang.String\ calcularVortice(int[])
+numComments=2
