@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment1.params=cadena
+comment1.target=int\ contarBaches(java.lang.String)
+comment2.params=cad\ pos\ contador
+comment2.target=int\ contarBaches(java.lang.String,\ int,\ int)
+numComments=3

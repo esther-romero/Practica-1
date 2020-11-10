@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment1.params=name
+comment1.target=java.lang.String\ autocorrector(java.lang.String)
+comment2.params=name\ pos\ cad2
+comment2.target=java.lang.String\ autocorrector(java.lang.String,\ int,\ java.lang.String)
+comment3.params=letra
+comment3.target=char\ convertir(char)
+numComments=4

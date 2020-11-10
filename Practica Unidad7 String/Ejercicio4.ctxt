@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=cadena
+comment1.target=java.lang.String\ simplificar(java.lang.String)
+comment2.params=cadena\ pos\ cad2
+comment2.target=java.lang.String\ simplificar(java.lang.String,\ int,\ java.lang.String)
+comment3.params=c
+comment3.target=boolean\ esLetra(char)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=cad
+comment1.target=java.lang.String\ contar(java.lang.String)
+comment2.params=cad\ cad2\ tam\ cont
+comment2.target=java.lang.String\ contar(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=3
