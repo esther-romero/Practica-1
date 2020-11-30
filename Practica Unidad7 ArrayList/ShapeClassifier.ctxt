@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ShapeClassifier
+comment1.params=
+comment1.target=ShapeClassifier()
+comment2.params=
+comment2.target=java.util.List\ getShapes()
+comment3.params=shape
+comment3.target=void\ addShape(GeometricShape)
+comment4.params=shapes\ shape
+comment4.target=void\ addInAList(java.util.List,\ GeometricShape)
+comment5.params=colour1\ colour2
+comment5.target=boolean\ compareColours(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=java.util.List\ createReport()
+comment7.params=shape
+comment7.target=int\ valueShape(GeometricShape)
+numComments=8

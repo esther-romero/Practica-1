@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaDeEstudiantes
+comment1.params=
+comment1.target=ListaDeEstudiantes()
+comment2.params=otro
+comment2.target=boolean\ agregarEstudiantes(Estudiante)
+comment3.params=nombre\ apellido
+comment3.target=boolean\ buscar(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ aprobados()
+comment5.params=
+comment5.target=java.util.ArrayList\ reprobado()
+comment6.params=
+comment6.target=java.util.ArrayList\ segundaInstancia()
+comment7.params=otro
+comment7.target=void\ repartir(Estudiante)
+numComments=8
